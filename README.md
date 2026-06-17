@@ -35,3 +35,4 @@ Our mission is to make Web3 education accessible for everyone and help newcomers
 All content shared through JoinBitcoinDao is for educational purposes only and should not be considered financial advice.
 Initial repository setup
 Add project overview and mission statement
+Improve repository documentation and formatting
