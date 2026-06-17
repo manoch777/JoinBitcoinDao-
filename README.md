@@ -36,3 +36,4 @@ All content shared through JoinBitcoinDao is for educational purposes only and s
 Initial repository setup
 Add project overview and mission statement
 Improve repository documentation and formatting
+JoinBitcoinDao is a Web3 education community sharing airdrop guides, blockchain tutorials, wallet security tips, and crypto opportunities to help beginners navigate the decentralized world with confidence.
